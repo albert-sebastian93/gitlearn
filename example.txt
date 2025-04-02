@@ -7,3 +7,5 @@ This is my third class of git
 
 This file has been modified three times..
 
+Our git journey is going well...
+
